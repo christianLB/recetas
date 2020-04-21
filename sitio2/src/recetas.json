@@ -1,0 +1,80 @@
+{
+    "recetas":[
+        {
+          "titulo":"Huevos Fritos",
+          "ingredientes":[
+             "huevo",
+             "aceite",
+             "sartén",
+             "fuego"
+          ],
+          "pasos":[
+             "poner aceite en la sartén",
+             "poner la sartén en el fuego.",
+             "Una vez caliente, romper el huevo y dejarlo caer en la sartén.",
+             "Retirarlo de la sartén con un sacahuevos, y ponerlo en un plato.",
+             "comerlo.",
+             "limpiarse la boca",
+             "digerirlo"
+          ]
+       },
+       {      
+          "titulo":"Roscón",
+          "ingredientes":[
+             "harina",
+             "huevo",
+             "levadura",
+             "agua",
+             "manteca",
+             "crema pastelera"
+          ],
+          "pasos":[
+             "poner harina en un bowl",
+             "batir los huevos en un otro bowl",
+             "tomarse el agua",
+             "derretir la manteca"
+          ]
+       },
+       {
+          "titulo":"Pollo a la mostaza",
+          "ingredientes":[
+             "pollo",
+             "mostaza"
+          ],
+          "pasos":[
+ 
+          ]
+       },
+       {
+          "titulo":"Fideos al pesto",
+          "ingredientes":[
+             "fideos",
+             "pesto"
+          ],
+          "pasos":[
+ 
+          ]
+       },
+       {
+          "titulo":"Panqueques de canela",
+          "ingredientes":[
+             "harina",
+             "huevos",
+             "chele",
+             "mantequita",
+             "canela"
+          ],
+          "pasos":[
+            "batir los huevos con la chele",
+            "derretir la mantequita en la sarten sin que se queme",
+            "integrar la harina con la chele y los huevos, mezclando al mismo tiempo para que no se formen grumos",
+            "echar una pizca de canela rayada en la mezcla.",
+            "echar un poco de la mezcla en la sartén.",
+            "esperar a que se cocine y se forme una masa uniforme",
+            "retirar con un sacapanqueques.",
+            "servir",
+            "comer"
+          ]
+       }
+    ]
+ }
